@@ -1,0 +1,314 @@
+login as: info2038018
+info2038018@210.115.170.122's password:
+Last login: Wed Jun  9 18:46:15 2021 from 223.39.152.89
+[info2038018@nlp ~]$ history
+    1  passwd
+    2  exit
+    3  Is
+    4  /home
+    5  vi helloWorld.c
+    6  cat heeloWorld.c
+    7  cat helloWorld.c
+    8  cc helloWorld.c
+    9  ./a.out
+   10  vi helloWorld.c
+   11  cat helloWorld.c
+   12  exit
+   13  ls
+   14  ls -1
+   15  ls-1
+   16  ls -1
+   17  ls -1a
+   18  cd/
+   19  cd /
+   20  ls
+   21  cd home
+   22  ls
+   23  cd /user
+   24  cd /usr
+   25  ls
+   26  cd ../home/info2038018
+   27  pwd
+   28  ls -1
+   29  ls -d
+   30  ls -1
+   31  ls
+   32  cat helloWorld.c
+   33  cat -n helloWorld.c
+   34  cat helloWorld.c sumM2n.c
+   35  cat > testfile
+   36  cat testfile
+   37  ls -1
+   38  chmod 664 testfile
+   39  ls -1
+   40  chmod g-w memo
+   41  ls -1
+   42  vi
+   43  vi
+   44  $ vi_practice
+   45  vi_practice
+   46  vi vi_practice
+   47  cat helloWorld.c
+   48  vi helloWorld.c
+   49  ./a.out
+   50  vi helloWorld.c
+   51  cc helloWorld.c
+   52  ./a.out
+   53  ./a/out
+   54  vi helloWorld.c
+   55  ./a.out
+   56  cc -o helloWorld helloworld.c
+   57  ./helloWorld
+   58  cc helloWorld.c
+   59  ./helloWorld
+   60  cc -o helloWorld helloWorld.c
+   61  ./helloWorld
+   62  cat helloWorld.c
+   63  vi hi.c
+   64  cat hi.c
+   65  ls
+   66  vi hi
+   67  cc hi.c
+   68  ./a.out
+   69  cc -o hi hi.c
+   70  ./hi
+   71  ls -1
+   72  ls
+   73  mkdir src
+   74  ls
+   75  mkdir test1 test2
+   76  ls
+   77  ls -1
+   78  ls -l
+   79  cp file1 file2
+   80  ls
+   81  cp test1.c test2.c
+   82  cp memo memo2
+   83  cat > memo
+   84  cp memo
+   85  cat memo
+   86  cp memo memo2
+   87  cat memo2
+   88  cp helloWorld.c hi.c src
+   89  ls src
+   90  is
+   91  ls
+   92  mv a.out hi
+   93  is
+   94  ls
+   95  mv memo memo testfile test1
+   96  mv memo2 memo testfile test1
+   97  ls
+   98  ls test1
+   99  more /etc/passwd
+  100  ls
+  101  rm memo2
+  102  ls
+  103  src
+  104  ls src
+  105  ls test1
+  106  rm memo2
+  107  ls
+  108  rm vi_practice [새로운]
+  109  rm vi_practice
+  110  ls test1
+  111  mv memo memo2 testfile home
+  112  mv memo memo2 testfile dir
+  113  pwd
+  114  ls
+  115  ls test1
+  116  rm memo
+  117  rm -r memo2
+  118  vi -b memo2
+  119  rm memo2
+  120  ls
+  121  test1
+  122  ls test1
+  123  rm memo2
+  124  rm -b memo2
+  125  vi -b memo2
+  126  ls test1
+  127  rm memo2
+  128  ls test1
+  129  ls
+  130  cat < memo3
+  131  ls
+  132  cat > memo3
+  133  ls
+  134  rm memo3
+  135  ls
+  136  cat > memo3
+  137  cat > memo4
+  138  rm -i [h-m]8
+  139  ls
+  140  rm -i [h-m]*
+  141  ls
+  142  rm -i [v]*
+  143  ls
+  144  ls test1
+  145  rm *
+  146  ls
+  147  ls test1
+  148  rm -r *
+  149  ls
+  150  vi helloWorld
+  151  cc helloWorld.c
+  152  helloWorld.c
+  153  ls
+  154  cat helloWorld
+  155  cc helloWorld.c
+  156  a.out
+  157  cat helloWorld.c
+  158  ls
+  159  ./a.out
+  160  cat helloWorld
+  161  ./a.out
+  162  vi helloWorld
+  163  cc helloWorld.c
+  164  vi helloWorld.c
+  165  cc helloWorld.c
+  166  vi helloWorld.c
+  167  car helloWorld.c
+  168  cat helloWorld.c
+  169  ./a.out
+  170  cc helloWorld.c
+  171  vi helloWorld.c
+  172  cat helloWorld.c
+  173  cc helloWorld.c
+  174  vi helloWorld.c
+  175  cat helloWorld.c
+  176  cc helloWorld.c
+  177  ./a.out
+  178  cat > memo
+  179  wc memo
+  180  wc -l memo
+  181  wc -w memo
+  182  ls
+  183  date
+  184  who
+  185  du test
+  186  du helloWorld
+  187  mrdir src
+  188  who
+  189  mkdir src
+  190  ls
+  191  mkdir test1 test2
+  192  ls
+  193  ls -l
+  194  cp memo memo2
+  195  cat memo2
+  196  ls
+  197  vi hi.c
+  198  cc hi.cc
+  199  cc hi.c
+  200  ./a.out
+  201  cat hi.c
+  202  cat hi
+  203  vi sum2.c
+  204  cc sum2.c
+  205  ./a.out
+  206  cat sum2.c
+  207  cc -o sum2 sum2.c
+  208  ./sum2
+  209  cat data
+  210  ./a.out < data1
+  211  cat < data1
+  212  cat > data
+  213  ./a.out < data
+  214  cat data
+  215  ./sum2 < data
+  216  cat > result
+  217  ./sum2 > result
+  218  cat result
+  219  ./sum2 < data > result
+  220  cat result
+  221  man ls
+  222  whatis ls
+  223  ls h??
+  224  ls h?
+  225  ls m???
+  226  ls [a,me}*
+  227  path
+  228  path -memo
+  229  history
+  230  whoami
+  231  who
+  232  echo hi
+  233  ls
+  234  vi selSort.c
+  235  cat sortData
+  236  cat > sortData
+  237  ./selSort < sortData
+  238  ls
+  239  cat selSort.c
+  240  cc -o selSort selSort.c
+  241  ./a.out
+  242  ./a.out < sortData
+  243  cat selSort.c
+  244  vi selSort.c
+  245  cat selSort.c
+  246  ./selSort < sortData
+  247  cc -o selSort selSort.c
+  248  ./selsort < sortData
+  249  ./selSort < sortData
+  250  logout
+  251  who
+  252  ls
+  253  ls -l
+  254  ls
+  255  cat -n helloWorld.c
+  256  cat helloWorld.c
+  257  ./a.out
+  258  ./helloWorld
+  259  ./helloWorld.c
+  260  cc -o helloWorld helloWorld.c
+  261  ./helloWorld
+  262  ls
+  263  mkdir midexam
+  264  ls
+  265  ls -l
+  266  chmod r-x protection
+  267  chmod rwx protection
+  268  chmond 421 protection
+  269  chmod 421 protection
+  270  cat > protection
+  271  chmod 421 protection
+  272  ls -l
+  273  ls midexam
+  274  vi maxmin.c
+  275  cat maxmin.c
+  276  ./a.out
+  277  cat > inData
+  278  cat inData
+  279  cat maxmin.c
+  280  ./a.out
+  281  ./a.out < inData
+  282  vi maxmin.c
+  283  ./a.out < inData
+  284  cat > inData
+  285  ./a.out < inData
+  286  vi fibo.c
+  287  ./a.out
+  288  cc -o fibo fibo.c
+  289  ./fibo
+  290  ./fibo <  result2
+  291  ./fibo >  result2
+  292  cat result2
+  293  vi wc2.c
+  294  cc -o wc2 wc2.c
+  295  ./wc.2
+  296  ./wc2.c
+  297  cat wc2.c
+  298  ./wc2.c
+  299  cc -o wc2 wc2.c
+  300  ./wc2.c > resulf3
+  301  ./wc2 > resulf3
+  302  cat result3
+  303  ./wc2 < result3
+  304  ./wc2 >  result3
+  305  cat result3
+  306  history
+  307   history > mycommands
+  308  cat mycommands
+  309  logout
+  310  history
